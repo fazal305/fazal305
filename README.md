@@ -274,7 +274,7 @@
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.nixrajput.com/api?username=fazal305&show_icons=true&theme=react&hide_border=true&bg_color=040712&title_color=22d3ee&icon_color=a855f7&text_color=c9d1d9&count_private=true" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=fazal305&theme=react-dark&hide_border=true&background=040712&ring=22d3ee&fire=facc15&currStreakLabel=22d3ee&sideLabels=a855f7&dates=c9d1d9" />
+<img height="180" src="https://streak-stats.demolab.com?user=fazal305&theme=react-dark&hide_border=true&background=040712&ring=22d3ee&fire=facc15&currStreakLabel=22d3ee&sideLabels=a855f7&dates=c9d1d9" />
 
 <br><br>
 
