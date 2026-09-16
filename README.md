@@ -20,7 +20,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rectangles&color=22d3ee&height=4&section=header&reversal=false&text=&fontSize=0&animation=flashing" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=22d3ee&height=4&section=header&reversal=false&text=&fontSize=0&animation=flashing" width="100%" />
 </div>
 
 <br>
@@ -61,7 +61,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rectangles&color=a855f7&height=4&section=header&reversal=false&text=&fontSize=0&animation=flashing" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=a855f7&height=4&section=header&reversal=false&text=&fontSize=0&animation=flashing" width="100%" />
 </div>
 
 <br>
@@ -138,7 +138,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rectangles&color=facc15&height=4&section=header&reversal=false&text=&fontSize=0&animation=flashing" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=facc15&height=4&section=header&reversal=false&text=&fontSize=0&animation=flashing" width="100%" />
 </div>
 
 <br>
@@ -185,7 +185,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rectangles&color=4ade80&height=4&section=header&reversal=false&text=&fontSize=0&animation=flashing" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=4ade80&height=4&section=header&reversal=false&text=&fontSize=0&animation=flashing" width="100%" />
 </div>
 
 <br>
@@ -240,7 +240,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rectangles&color=22d3ee&height=4&section=header&reversal=false&text=&fontSize=0&animation=flashing" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=22d3ee&height=4&section=header&reversal=false&text=&fontSize=0&animation=flashing" width="100%" />
 </div>
 
 <br>
@@ -264,7 +264,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rectangles&color=a855f7&height=4&section=header&reversal=false&text=&fontSize=0&animation=flashing" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=a855f7&height=4&section=header&reversal=false&text=&fontSize=0&animation=flashing" width="100%" />
 </div>
 
 <br>
@@ -294,7 +294,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rectangles&color=facc15&height=4&section=header&reversal=false&text=&fontSize=0&animation=flashing" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=facc15&height=4&section=header&reversal=false&text=&fontSize=0&animation=flashing" width="100%" />
 </div>
 
 <br>
