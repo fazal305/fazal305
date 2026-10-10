@@ -145,6 +145,10 @@
 
 <h3 align="center">CURRENTLY</h3>
 
+<p align="center">
+<a href="https://systemset.co/"><img src="https://img.shields.io/badge/Back_End_Developer_(part--time)-Systemset-040712?style=for-the-badge&labelColor=040712&color=22d3ee" /></a>
+</p>
+
 <table>
 <tr>
 <td width="34%" align="center" bgcolor="#0a0f1c">
@@ -165,8 +169,8 @@
 <img src="https://img.shields.io/badge/Marginline-040712?style=flat-square&logo=react&logoColor=22d3ee" />
 <img src="https://img.shields.io/badge/EduLedger-040712?style=flat-square&logo=react&logoColor=facc15" />
 <img src="https://img.shields.io/badge/ReferralFlow-040712?style=flat-square&logo=vercel&logoColor=4ade80" />
-<img src="https://img.shields.io/badge/QuoteRate-040712?style=flat-square&logo=react&logoColor=a855f7" />
-<img src="https://img.shields.io/badge/Imposter_(party_game)-040712?style=flat-square&logo=react&logoColor=fb7185" />
+<img src="https://img.shields.io/badge/QuoteForge-040712?style=flat-square&logo=react&logoColor=a855f7" />
+<img src="https://img.shields.io/badge/Bijli_Bill_Explainer-040712?style=flat-square&logo=react&logoColor=fb7185" />
 
 </td>
 <td width="33%" align="center" bgcolor="#0a0f1c">
