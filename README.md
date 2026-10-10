@@ -295,7 +295,7 @@
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-fazal.is--a.dev-040712?style=for-the-badge&logo=vercel&logoColor=f7fbff)](https://fazal.is-a.dev/)
 [![GitHub](https://img.shields.io/badge/GITHUB-fazal305-040712?style=for-the-badge&logo=github&logoColor=f7fbff)](https://github.com/fazal305)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Fazal_Abbas-040712?style=for-the-badge&logo=linkedin&logoColor=22d3ee)](https://linkedin.com/in/fazal-abbas-4653dg86)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Fazal_Abbas-040712?style=for-the-badge&logo=linkedin&logoColor=22d3ee)](https://www.linkedin.com/in/fazal-abbas879/)
 [![Email](https://img.shields.io/badge/EMAIL-fazalabbas2002%40gmail.com-040712?style=for-the-badge&logo=gmail&logoColor=fb7185)](mailto:fazalabbas2002@gmail.com)
 
 </div>
