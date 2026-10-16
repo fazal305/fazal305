@@ -182,6 +182,10 @@
 <img src="https://img.shields.io/badge/CodeAlpha-040712?style=flat-square&logo=html5&logoColor=fb7185" />
 <img src="https://img.shields.io/badge/DecodeLabs-040712?style=flat-square&logo=css3&logoColor=22d3ee" />
 
+#### CERTIFICATIONS
+
+<a href="https://fazal.is-a.dev/credentials/hubspot-digital-marketing-certificate.png"><img src="https://img.shields.io/badge/HubSpot-Digital_Marketing-040712?style=flat-square&logo=hubspot&logoColor=fb923c&labelColor=040712" /></a>
+
 </td>
 </tr>
 </table>
