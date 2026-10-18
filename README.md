@@ -160,6 +160,7 @@
 <img src="https://img.shields.io/badge/Auth_%26_Sessions-040712?style=flat-square&logo=auth0&logoColor=fb7185" />
 <img src="https://img.shields.io/badge/Business_Logic_Layers-040712?style=flat-square&logo=php&logoColor=a855f7" />
 <img src="https://img.shields.io/badge/Laravel_(next)-040712?style=flat-square&logo=laravel&logoColor=fb7185" />
+<img src="https://img.shields.io/badge/Meta_Front--End_(Coursera)-040712?style=flat-square&logo=meta&logoColor=60a5fa" />
 
 </td>
 <td width="33%" align="center" bgcolor="#0a0f1c">
