@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=fazal305&label=PROFILE+VIEWS&color=22d3ee&style=for-the-badge&labelColor=040712" />
+<img src="https://api.visitorbadge.io/api/visitors?path=fazal305&label=PROFILE%20VIEWS&labelColor=%23040712&countColor=%2322d3ee&style=for-the-badge" />
 <br>
 <img src="https://img.shields.io/badge/ROLE-Frontend_Developer-040712?style=for-the-badge&logo=react&logoColor=22d3ee" />
 <img src="https://img.shields.io/badge/STATUS-Software_Eng._Student-040712?style=for-the-badge&logo=googlescholar&logoColor=a855f7" />
@@ -74,7 +74,7 @@
 ![React](https://img.shields.io/badge/React-040712?style=flat-square&logo=react&logoColor=22d3ee)
 ![Vite](https://img.shields.io/badge/Vite-040712?style=flat-square&logo=vite&logoColor=a855f7)
 ![HTML5](https://img.shields.io/badge/HTML5-040712?style=flat-square&logo=html5&logoColor=fb7185)
-![CSS3](https://img.shields.io/badge/CSS3-040712?style=flat-square&logo=css3&logoColor=22d3ee)
+![CSS3](https://img.shields.io/badge/CSS3-040712?style=flat-square&logo=css&logoColor=22d3ee)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-040712?style=flat-square&logo=tailwindcss&logoColor=22d3ee)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-040712?style=flat-square&logo=bootstrap&logoColor=a855f7)
 ![jQuery](https://img.shields.io/badge/jQuery-040712?style=flat-square&logo=jquery&logoColor=4ade80)
@@ -181,7 +181,7 @@
 <img src="https://img.shields.io/badge/Nexsoft_Solutions-040712?style=flat-square&logo=nodedotjs&logoColor=4ade80" />
 <img src="https://img.shields.io/badge/Hex_Softwares-040712?style=flat-square&logo=javascript&logoColor=facc15" />
 <img src="https://img.shields.io/badge/CodeAlpha-040712?style=flat-square&logo=html5&logoColor=fb7185" />
-<img src="https://img.shields.io/badge/DecodeLabs-040712?style=flat-square&logo=css3&logoColor=22d3ee" />
+<img src="https://img.shields.io/badge/DecodeLabs-040712?style=flat-square&logo=css&logoColor=22d3ee" />
 
 #### CERTIFICATIONS
 
